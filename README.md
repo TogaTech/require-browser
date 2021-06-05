@@ -42,12 +42,12 @@ Options are an additional feature to change the configuration settings of the in
  - `name`: the name used to install that module later (default: path)
 
 ### Requiring Code
-If you would like to require code, the code imported must use `module.exports`, `exports`, or browser code. If using `module.exports` or `exports`, write the following command:
+If you would like to require code, the code imported must use `module.exports`, `exports`, or browser code. If you have `module.exports` or `exports`, use the following command:
 ```javascript
 require(path_or_name);
 ```
 
-If you use browser code or have the `browser` parameter in `package.json`, use the following command:
+If you have browser code or the `browser` parameter in `package.json`, use the following command:
 ```javascript
 requireBrowser(path_or_name);
 ```
