@@ -1,0 +1,20 @@
+{
+  "name": "require-browser",
+  "version": "1.0.0",
+  "description": "Use node.js-style require and exports syntax in the browser",
+  "main": "require-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TogaTech/require-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TogaTech/require-browser/issues"
+  },
+  "homepage": "https://github.com/TogaTech/require-browser#readme",
+  "dependencies": {}
+}
