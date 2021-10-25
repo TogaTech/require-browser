@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/TogaTech/require-browser.git"
   },
-  "author": "",
+  "author": "TogaTech",
   "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/TogaTech/require-browser/issues"
